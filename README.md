@@ -1,7 +1,21 @@
 # reactjs-basic-calculator
 Simple calculator built with ReactJS
 
-run "npm start" to run app
+
+Install dependencies
+```
+npm install
+```
+
+Build app
+```
+npm run build
+```
+
+ Run app
+``` shell
+npm start
+```
 
 
 ### Demo:
